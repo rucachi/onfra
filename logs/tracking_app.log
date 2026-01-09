@@ -6390,3 +6390,233 @@ AttributeError: 'MainWindow' object has no attribute 'status_bar'. Did you mean:
 2026-01-09 16:34:00,785 - ui.main_window - INFO - 애플리케이션 종료
 2026-01-09 16:34:00,785 - ui.pages_observation - INFO - 추적 중지
 2026-01-09 16:34:00,812 - __main__ - INFO - 애플리케이션 종료 (exit code: 0)
+2026-01-09 16:43:31,803 - __main__ - INFO - ============================================================
+2026-01-09 16:43:31,803 - __main__ - INFO - ONFRA Camera Tracking System 시작
+2026-01-09 16:43:31,804 - __main__ - INFO - ============================================================
+2026-01-09 16:43:31,832 - __main__ - INFO - 화면 크기: 1920x1032
+2026-01-09 16:43:31,833 - __main__ - INFO - DPI: 96.0
+2026-01-09 16:43:31,833 - assets - WARNING - 로고 파일이 존재하지 않습니다: C:\onfra\onfra_logo.png
+2026-01-09 16:43:32,017 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:43:32,029 - ui.pages_training - INFO - 레시피 목록: 9개
+2026-01-09 16:43:32,030 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:43:32,035 - ui.pages_observation - INFO - 레시피 목록: 9개
+2026-01-09 16:43:32,480 - __main__ - INFO - 메인 윈도우 표시 완료 (1536x877)
+2026-01-09 16:43:36,339 - vision.camera - INFO - 카메라 0 열기 성공
+2026-01-09 16:43:36,339 - vision.camera - INFO - 카메라 스레드 시작 (index=0)
+2026-01-09 16:43:36,340 - ui.pages_camera - INFO - 카메라 0 연결 성공
+2026-01-09 16:43:46,610 - vision.recipe - INFO - 레시피 로드 완료: 111 (키포인트: 40개)
+2026-01-09 16:43:49,394 - vision.recipe - INFO - 레시피 삭제 완료: 111
+2026-01-09 16:43:50,693 - ui.pages_training - INFO - 레시피 목록: 8개
+2026-01-09 16:43:51,487 - vision.recipe - INFO - 레시피 로드 완료: face (키포인트: 145개)
+2026-01-09 16:43:53,477 - vision.recipe - INFO - 레시피 삭제 완료: face
+2026-01-09 16:43:54,914 - ui.pages_training - INFO - 레시피 목록: 7개
+2026-01-09 16:43:55,650 - vision.recipe - INFO - 레시피 로드 완료: face1 (키포인트: 281개)
+2026-01-09 16:43:57,876 - vision.recipe - INFO - 레시피 삭제 완료: face1
+2026-01-09 16:43:59,474 - ui.pages_training - INFO - 레시피 목록: 6개
+2026-01-09 16:44:00,856 - vision.recipe - INFO - 레시피 로드 완료: hbio (키포인트: 653개)
+2026-01-09 16:44:03,407 - vision.recipe - INFO - 레시피 삭제 완료: hbio
+2026-01-09 16:44:04,913 - ui.pages_training - INFO - 레시피 목록: 5개
+2026-01-09 16:44:06,510 - vision.recipe - INFO - 레시피 로드 완료: kth (키포인트: 515개)
+2026-01-09 16:44:09,235 - vision.recipe - INFO - 레시피 삭제 완료: kth
+2026-01-09 16:44:10,593 - ui.pages_training - INFO - 레시피 목록: 4개
+2026-01-09 16:44:11,807 - vision.recipe - INFO - 레시피 로드 완료: sadf (키포인트: 30개)
+2026-01-09 16:44:15,798 - vision.recipe - INFO - 레시피 삭제 완료: sadf
+2026-01-09 16:44:16,917 - ui.pages_training - INFO - 레시피 목록: 3개
+2026-01-09 16:44:17,825 - vision.recipe - INFO - 레시피 로드 완료: test (키포인트: 168개)
+2026-01-09 16:44:20,996 - vision.recipe - INFO - 레시피 삭제 완료: test
+2026-01-09 16:44:24,356 - ui.pages_training - INFO - 레시피 목록: 2개
+2026-01-09 16:44:25,565 - vision.recipe - INFO - 레시피 로드 완료: test11 (키포인트: 413개)
+2026-01-09 16:44:32,037 - vision.recipe - INFO - 레시피 삭제 완료: test11
+2026-01-09 16:44:33,314 - ui.pages_training - INFO - 레시피 목록: 1개
+2026-01-09 16:44:34,204 - vision.recipe - INFO - 레시피 로드 완료: test22 (키포인트: 600개)
+2026-01-09 16:44:36,355 - vision.recipe - INFO - 레시피 삭제 완료: test22
+2026-01-09 16:44:37,236 - ui.pages_training - INFO - 레시피 목록: 0개
+2026-01-09 16:45:00,989 - vision.recipe - INFO - 레시피 생성: test1 (키포인트: 565개)
+2026-01-09 16:45:02,273 - ui.pages_training - INFO - 템플릿 학습 완료: test1 (키포인트: 565)
+2026-01-09 16:45:07,557 - vision.recipe - INFO - 레시피 저장 완료: test1
+2026-01-09 16:45:09,075 - ui.pages_training - INFO - 레시피 목록: 1개
+2026-01-09 16:45:18,912 - vision.recipe - INFO - 레시피 생성: test2 (키포인트: 85개)
+2026-01-09 16:45:20,274 - ui.pages_training - INFO - 템플릿 학습 완료: test2 (키포인트: 85)
+2026-01-09 16:45:21,315 - vision.recipe - INFO - 레시피 저장 완료: test2
+2026-01-09 16:45:22,437 - ui.pages_training - INFO - 레시피 목록: 2개
+2026-01-09 16:45:33,418 - vision.recipe - ERROR - 특징점이 부족합니다 (최소 10개 필요, 현재 1개)
+2026-01-09 16:45:37,804 - vision.recipe - INFO - 레시피 생성: test3 (키포인트: 193개)
+2026-01-09 16:45:39,166 - ui.pages_training - INFO - 템플릿 학습 완료: test3 (키포인트: 193)
+2026-01-09 16:45:40,203 - vision.recipe - INFO - 레시피 저장 완료: test3
+2026-01-09 16:45:41,248 - ui.pages_training - INFO - 레시피 목록: 3개
+2026-01-09 16:45:47,791 - vision.recipe - INFO - 레시피 생성: test4 (키포인트: 63개)
+2026-01-09 16:45:48,911 - ui.pages_training - INFO - 템플릿 학습 완료: test4 (키포인트: 63)
+2026-01-09 16:45:50,035 - vision.recipe - INFO - 레시피 저장 완료: test4
+2026-01-09 16:45:51,154 - ui.pages_training - INFO - 레시피 목록: 4개
+2026-01-09 16:45:56,588 - ui.pages_observation - INFO - 레시피 목록: 4개
+2026-01-09 16:46:23,627 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:46:23,637 - vision.recipe - INFO - 레시피 로드 완료: test1 (키포인트: 565개)
+2026-01-09 16:46:23,640 - vision.multi_tracker - INFO - 트래커 추가: test1 (색상: (0, 255, 0))
+2026-01-09 16:46:23,650 - vision.recipe - INFO - 레시피 로드 완료: test2 (키포인트: 85개)
+2026-01-09 16:46:23,653 - vision.multi_tracker - INFO - 트래커 추가: test2 (색상: (255, 0, 0))
+2026-01-09 16:46:23,662 - vision.recipe - INFO - 레시피 로드 완료: test3 (키포인트: 193개)
+2026-01-09 16:46:23,664 - vision.multi_tracker - INFO - 트래커 추가: test3 (색상: (0, 0, 255))
+2026-01-09 16:46:23,673 - vision.recipe - INFO - 레시피 로드 완료: test4 (키포인트: 63개)
+2026-01-09 16:46:23,675 - vision.multi_tracker - INFO - 트래커 추가: test4 (색상: (255, 255, 0))
+2026-01-09 16:46:23,675 - vision.multi_tracker - INFO - 총 4개 트래커 설정 완료
+2026-01-09 16:46:23,676 - vision.multi_tracker - INFO - 멀티 추적 파이프라인 시작 (4개 트래커)
+2026-01-09 16:46:23,678 - ui.pages_observation - INFO - 멀티 추적 시작: 4개 템플릿
+2026-01-09 16:46:57,966 - ui.main_window - INFO - 애플리케이션 종료
+2026-01-09 16:46:58,266 - vision.camera - INFO - 카메라 0 닫기
+2026-01-09 16:46:58,266 - vision.camera - INFO - 카메라 스레드 종료
+2026-01-09 16:46:58,267 - ui.pages_camera - INFO - 카메라 연결 해제
+2026-01-09 16:46:58,322 - vision.multi_tracker - INFO - 멀티 추적 파이프라인 종료
+2026-01-09 16:46:58,324 - ui.pages_observation - INFO - 추적 중지
+2026-01-09 16:46:58,340 - __main__ - INFO - 애플리케이션 종료 (exit code: 0)
+2026-01-09 16:49:17,551 - __main__ - INFO - ============================================================
+2026-01-09 16:49:17,551 - __main__ - INFO - ONFRA Camera Tracking System 시작
+2026-01-09 16:49:17,551 - __main__ - INFO - ============================================================
+2026-01-09 16:49:17,578 - __main__ - INFO - 화면 크기: 1920x1032
+2026-01-09 16:49:17,578 - __main__ - INFO - DPI: 96.0
+2026-01-09 16:49:17,578 - assets - WARNING - 로고 파일이 존재하지 않습니다: C:\onfra\onfra_logo.png
+2026-01-09 16:49:17,754 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:49:17,767 - ui.pages_training - INFO - 레시피 목록: 4개
+2026-01-09 16:49:17,768 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:49:17,789 - ui.pages_observation - INFO - 레시피 목록: 4개
+2026-01-09 16:49:18,219 - __main__ - INFO - 메인 윈도우 표시 완료 (1536x877)
+2026-01-09 16:49:29,881 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:49:29,888 - vision.recipe - INFO - 레시피 로드 완료: test1 (키포인트: 565개)
+2026-01-09 16:49:29,980 - vision.multi_tracker - INFO - 트래커 추가: test1 (색상: (0, 255, 0))
+2026-01-09 16:49:29,983 - vision.recipe - INFO - 레시피 로드 완료: test2 (키포인트: 85개)
+2026-01-09 16:49:29,985 - vision.multi_tracker - INFO - 트래커 추가: test2 (색상: (255, 0, 0))
+2026-01-09 16:49:29,987 - vision.recipe - INFO - 레시피 로드 완료: test3 (키포인트: 193개)
+2026-01-09 16:49:29,988 - vision.multi_tracker - INFO - 트래커 추가: test3 (색상: (0, 0, 255))
+2026-01-09 16:49:29,990 - vision.recipe - INFO - 레시피 로드 완료: test4 (키포인트: 63개)
+2026-01-09 16:49:29,991 - vision.multi_tracker - INFO - 트래커 추가: test4 (색상: (255, 255, 0))
+2026-01-09 16:49:29,991 - vision.multi_tracker - INFO - 총 4개 트래커 설정 완료
+2026-01-09 16:49:29,992 - vision.multi_tracker - INFO - 멀티 추적 파이프라인 시작 (4개 트래커)
+2026-01-09 16:49:29,995 - ui.pages_observation - INFO - 멀티 추적 시작: 4개 템플릿
+2026-01-09 16:49:34,484 - vision.camera - INFO - 카메라 0 열기 성공
+2026-01-09 16:49:34,485 - vision.camera - INFO - 카메라 스레드 시작 (index=0)
+2026-01-09 16:49:34,486 - ui.pages_camera - INFO - 카메라 0 연결 성공
+2026-01-09 16:50:02,819 - ui.main_window - INFO - 애플리케이션 종료
+2026-01-09 16:50:03,094 - vision.camera - INFO - 카메라 0 닫기
+2026-01-09 16:50:03,096 - vision.camera - INFO - 카메라 스레드 종료
+2026-01-09 16:50:03,096 - ui.pages_camera - INFO - 카메라 연결 해제
+2026-01-09 16:50:03,193 - vision.multi_tracker - INFO - 멀티 추적 파이프라인 종료
+2026-01-09 16:50:03,194 - ui.pages_observation - INFO - 추적 중지
+2026-01-09 16:50:03,215 - __main__ - INFO - 애플리케이션 종료 (exit code: 0)
+2026-01-09 16:51:31,582 - __main__ - INFO - ============================================================
+2026-01-09 16:51:31,582 - __main__ - INFO - ONFRA Camera Tracking System 시작
+2026-01-09 16:51:31,589 - __main__ - INFO - ============================================================
+2026-01-09 16:51:31,617 - __main__ - INFO - 화면 크기: 1920x1032
+2026-01-09 16:51:31,617 - __main__ - INFO - DPI: 96.0
+2026-01-09 16:51:31,619 - assets - WARNING - 로고 파일이 존재하지 않습니다: C:\onfra\onfra_logo.png
+2026-01-09 16:51:31,794 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:51:31,803 - ui.pages_training - INFO - 레시피 목록: 4개
+2026-01-09 16:51:31,807 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:51:31,810 - ui.pages_observation - INFO - 레시피 목록: 4개
+2026-01-09 16:51:32,274 - __main__ - INFO - 메인 윈도우 표시 완료 (1536x877)
+2026-01-09 16:51:34,526 - vision.camera - INFO - 카메라 0 열기 성공
+2026-01-09 16:51:34,527 - vision.camera - INFO - 카메라 스레드 시작 (index=0)
+2026-01-09 16:51:34,527 - ui.pages_camera - INFO - 카메라 0 연결 성공
+2026-01-09 16:52:07,991 - ui.main_window - INFO - 애플리케이션 종료
+2026-01-09 16:52:08,271 - vision.camera - INFO - 카메라 0 닫기
+2026-01-09 16:52:08,272 - vision.camera - INFO - 카메라 스레드 종료
+2026-01-09 16:52:08,273 - ui.pages_camera - INFO - 카메라 연결 해제
+2026-01-09 16:52:08,274 - ui.pages_observation - INFO - 추적 중지
+2026-01-09 16:52:08,291 - __main__ - INFO - 애플리케이션 종료 (exit code: 0)
+2026-01-09 16:53:42,376 - __main__ - INFO - ============================================================
+2026-01-09 16:53:42,378 - __main__ - INFO - ONFRA Camera Tracking System 시작
+2026-01-09 16:53:42,378 - __main__ - INFO - ============================================================
+2026-01-09 16:53:42,404 - __main__ - INFO - 화면 크기: 1920x1032
+2026-01-09 16:53:42,404 - __main__ - INFO - DPI: 96.0
+2026-01-09 16:53:42,406 - assets - WARNING - 로고 파일이 존재하지 않습니다: C:\onfra\onfra_logo.png
+2026-01-09 16:53:42,585 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:53:42,595 - ui.pages_training - INFO - 레시피 목록: 4개
+2026-01-09 16:53:42,598 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:53:42,600 - ui.pages_observation - INFO - 레시피 목록: 4개
+2026-01-09 16:53:43,116 - __main__ - INFO - 메인 윈도우 표시 완료 (1536x877)
+2026-01-09 16:53:45,085 - vision.camera - INFO - 카메라 0 열기 성공
+2026-01-09 16:53:45,085 - vision.camera - INFO - 카메라 스레드 시작 (index=0)
+2026-01-09 16:53:45,086 - ui.pages_camera - INFO - 카메라 0 연결 성공
+2026-01-09 16:53:52,902 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:53:52,907 - vision.recipe - INFO - 레시피 로드 완료: test1 (키포인트: 565개)
+2026-01-09 16:53:52,991 - vision.multi_tracker - INFO - 트래커 추가: test1 (색상: (0, 255, 0))
+2026-01-09 16:53:52,993 - vision.recipe - INFO - 레시피 로드 완료: test2 (키포인트: 85개)
+2026-01-09 16:53:52,993 - vision.multi_tracker - INFO - 트래커 추가: test2 (색상: (255, 0, 0))
+2026-01-09 16:53:52,994 - vision.recipe - INFO - 레시피 로드 완료: test3 (키포인트: 193개)
+2026-01-09 16:53:52,997 - vision.multi_tracker - INFO - 트래커 추가: test3 (색상: (0, 0, 255))
+2026-01-09 16:53:52,999 - vision.recipe - INFO - 레시피 로드 완료: test4 (키포인트: 63개)
+2026-01-09 16:53:53,000 - vision.multi_tracker - INFO - 트래커 추가: test4 (색상: (255, 255, 0))
+2026-01-09 16:53:53,000 - vision.multi_tracker - INFO - 총 4개 트래커 설정 완료
+2026-01-09 16:53:53,000 - vision.multi_tracker - INFO - 멀티 추적 파이프라인 시작 (4개 트래커)
+2026-01-09 16:53:53,003 - ui.pages_observation - INFO - 멀티 추적 시작: 4개 템플릿
+2026-01-09 16:53:58,637 - ui.pages_observation - INFO - 레시피 목록: 4개
+2026-01-09 16:53:59,833 - ui.pages_observation - INFO - 레시피 목록: 4개
+2026-01-09 16:54:10,538 - ui.main_window - INFO - 애플리케이션 종료
+2026-01-09 16:54:10,813 - vision.camera - INFO - 카메라 0 닫기
+2026-01-09 16:54:10,813 - vision.camera - INFO - 카메라 스레드 종료
+2026-01-09 16:54:10,814 - ui.pages_camera - INFO - 카메라 연결 해제
+2026-01-09 16:54:10,912 - vision.multi_tracker - INFO - 멀티 추적 파이프라인 종료
+2026-01-09 16:54:10,913 - ui.pages_observation - INFO - 추적 중지
+2026-01-09 16:54:10,926 - __main__ - INFO - 애플리케이션 종료 (exit code: 0)
+2026-01-09 16:55:12,810 - __main__ - INFO - ============================================================
+2026-01-09 16:55:12,810 - __main__ - INFO - ONFRA Camera Tracking System 시작
+2026-01-09 16:55:12,810 - __main__ - INFO - ============================================================
+2026-01-09 16:55:12,837 - __main__ - INFO - 화면 크기: 1920x1032
+2026-01-09 16:55:12,837 - __main__ - INFO - DPI: 96.0
+2026-01-09 16:55:12,838 - assets - WARNING - 로고 파일이 존재하지 않습니다: C:\onfra\onfra_logo.png
+2026-01-09 16:55:13,015 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:55:13,026 - ui.pages_training - INFO - 레시피 목록: 4개
+2026-01-09 16:55:13,026 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:55:13,029 - ui.pages_observation - INFO - 레시피 목록: 4개
+2026-01-09 16:55:13,490 - __main__ - INFO - 메인 윈도우 표시 완료 (1536x877)
+2026-01-09 16:55:15,426 - vision.camera - INFO - 카메라 0 열기 성공
+2026-01-09 16:55:15,427 - vision.camera - INFO - 카메라 스레드 시작 (index=0)
+2026-01-09 16:55:15,427 - ui.pages_camera - INFO - 카메라 0 연결 성공
+2026-01-09 16:55:28,125 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:55:28,130 - vision.recipe - INFO - 레시피 로드 완료: test1 (키포인트: 565개)
+2026-01-09 16:55:28,212 - vision.multi_tracker - INFO - 트래커 추가: test1 (색상: (0, 255, 0))
+2026-01-09 16:55:28,214 - vision.recipe - INFO - 레시피 로드 완료: test2 (키포인트: 85개)
+2026-01-09 16:55:28,215 - vision.multi_tracker - INFO - 트래커 추가: test2 (색상: (255, 0, 0))
+2026-01-09 16:55:28,217 - vision.recipe - INFO - 레시피 로드 완료: test3 (키포인트: 193개)
+2026-01-09 16:55:28,219 - vision.multi_tracker - INFO - 트래커 추가: test3 (색상: (0, 0, 255))
+2026-01-09 16:55:28,220 - vision.recipe - INFO - 레시피 로드 완료: test4 (키포인트: 63개)
+2026-01-09 16:55:28,222 - vision.multi_tracker - INFO - 트래커 추가: test4 (색상: (255, 255, 0))
+2026-01-09 16:55:28,222 - vision.multi_tracker - INFO - 총 4개 트래커 설정 완료
+2026-01-09 16:55:28,223 - vision.multi_tracker - INFO - 멀티 추적 파이프라인 시작 (4개 트래커)
+2026-01-09 16:55:28,225 - ui.pages_observation - INFO - 멀티 추적 시작: 4개 템플릿
+2026-01-09 16:55:47,645 - ui.main_window - INFO - 애플리케이션 종료
+2026-01-09 16:55:47,938 - vision.camera - INFO - 카메라 0 닫기
+2026-01-09 16:55:47,938 - vision.camera - INFO - 카메라 스레드 종료
+2026-01-09 16:55:47,940 - ui.pages_camera - INFO - 카메라 연결 해제
+2026-01-09 16:55:47,998 - vision.multi_tracker - INFO - 멀티 추적 파이프라인 종료
+2026-01-09 16:55:48,000 - ui.pages_observation - INFO - 추적 중지
+2026-01-09 16:55:48,013 - __main__ - INFO - 애플리케이션 종료 (exit code: 0)
+2026-01-09 16:56:47,598 - __main__ - INFO - ============================================================
+2026-01-09 16:56:47,598 - __main__ - INFO - ONFRA Camera Tracking System 시작
+2026-01-09 16:56:47,598 - __main__ - INFO - ============================================================
+2026-01-09 16:56:47,627 - __main__ - INFO - 화면 크기: 1920x1032
+2026-01-09 16:56:47,628 - __main__ - INFO - DPI: 96.0
+2026-01-09 16:56:47,628 - assets - WARNING - 로고 파일이 존재하지 않습니다: C:\onfra\onfra_logo.png
+2026-01-09 16:56:47,799 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:56:47,811 - ui.pages_training - INFO - 레시피 목록: 4개
+2026-01-09 16:56:47,811 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:56:47,814 - ui.pages_observation - INFO - 레시피 목록: 4개
+2026-01-09 16:56:48,252 - __main__ - INFO - 메인 윈도우 표시 완료 (1536x877)
+2026-01-09 16:56:49,763 - vision.camera - INFO - 카메라 0 열기 성공
+2026-01-09 16:56:49,764 - vision.camera - INFO - 카메라 스레드 시작 (index=0)
+2026-01-09 16:56:49,764 - ui.pages_camera - INFO - 카메라 0 연결 성공
+2026-01-09 16:56:54,667 - vision.recipe - INFO - 레시피 디렉토리: C:\anti_gravity\onfra\data\recipes
+2026-01-09 16:56:54,671 - vision.recipe - INFO - 레시피 로드 완료: test1 (키포인트: 565개)
+2026-01-09 16:56:54,751 - vision.multi_tracker - INFO - 트래커 추가: test1 (색상: (0, 255, 0))
+2026-01-09 16:56:54,754 - vision.recipe - INFO - 레시피 로드 완료: test2 (키포인트: 85개)
+2026-01-09 16:56:54,755 - vision.multi_tracker - INFO - 트래커 추가: test2 (색상: (255, 0, 0))
+2026-01-09 16:56:54,758 - vision.recipe - INFO - 레시피 로드 완료: test3 (키포인트: 193개)
+2026-01-09 16:56:54,759 - vision.multi_tracker - INFO - 트래커 추가: test3 (색상: (0, 0, 255))
+2026-01-09 16:56:54,760 - vision.multi_tracker - INFO - 총 3개 트래커 설정 완료
+2026-01-09 16:56:54,760 - vision.multi_tracker - INFO - 멀티 추적 파이프라인 시작 (3개 트래커)
+2026-01-09 16:56:54,762 - ui.pages_observation - INFO - 멀티 추적 시작: 3개 템플릿
+2026-01-09 16:57:25,631 - ui.main_window - INFO - 애플리케이션 종료
+2026-01-09 16:57:25,942 - vision.camera - INFO - 카메라 0 닫기
+2026-01-09 16:57:25,942 - vision.camera - INFO - 카메라 스레드 종료
+2026-01-09 16:57:25,943 - ui.pages_camera - INFO - 카메라 연결 해제
+2026-01-09 16:57:26,034 - vision.multi_tracker - INFO - 멀티 추적 파이프라인 종료
+2026-01-09 16:57:26,036 - ui.pages_observation - INFO - 추적 중지
+2026-01-09 16:57:26,051 - __main__ - INFO - 애플리케이션 종료 (exit code: 0)
